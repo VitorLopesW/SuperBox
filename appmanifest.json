@@ -1,7 +1,7 @@
 {
 	"name": "SuperBox",
 	"short_name": "SuperBox",
-	"description": "",
+	"description": "Game about bboxes",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
